@@ -1,4 +1,4 @@
-# Yatırım Trend Analiz Betiği
+# Hareketli Ortalamalar Trend Analiz Betiği
 
 ## Yasal Uyarı
 Bu Python betiği yalnızca eğitim ve öğretim amacı taşımaktadır. Sunulan veriler ve analizler, herhangi bir yatırım tavsiyesi olarak değerlendirilmemelidir. Finansal kararlarınızı verirken kendi araştırmanızı yapmalı ve uzman tavsiyelerine başvurmalısınız. Bu betiğin kullanımından kaynaklanan herhangi bir zarardan sorumluluk kabul edilmemektedir.
