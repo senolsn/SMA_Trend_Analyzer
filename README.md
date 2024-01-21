@@ -17,11 +17,11 @@ Proje için gerekli paketleri yüklemek ve sanal ortamı oluşturmak için aşa�
 4. Sanal ortamı etkinleştirin:
    - Windows:
      ```bash
-     .\analyzerenv\Scripts\activate
+     .\analyzer\Scripts\activate
      ```
    - macOS/Linux:
      ```bash
-     source analyzerenv/bin/activate
+     source analyzer/bin/activate
      
 5. Gerekli paketleri indirmek için terminal veya komut istemcisine şu komutları yazın:
     ```bash
